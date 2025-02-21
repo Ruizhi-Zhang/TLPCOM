@@ -19,9 +19,9 @@ Code for [Efficient Link Prediction in Continuous-Time Dynamic Networks using Op
 
 ```python link_prediction.py```
 
-## Data Preprocess
+## Data 
 
-We have uploaded all datasets, which can be downloaded and placed in the "com_code/datasets" directory.
+All datasets are sourced from https://snap.stanford.edu/.
 
 ## Cite
 
